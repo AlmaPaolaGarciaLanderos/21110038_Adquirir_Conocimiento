@@ -1,3 +1,9 @@
+#Alma Paola Garcia Landeros
+#21110038
+#6E1
+#Inteligencia Artificial
+#Centro de Enseñanza Tecnica Industrial       
+
 from flask import Flask, request, render_template
 
 app = Flask(__name__)
