@@ -29,7 +29,7 @@ class Chatbot:
         return f"Gracias, he aprendido algo nuevo: '{user_input}' significa '{new_response}'."
 
 def main():
-    print("¡Bienvenido al chatbot de las Chivas!")
+    print("¡Bienvenido al chatbot de Alma!")
     chatbot = Chatbot()
     
     while True:
